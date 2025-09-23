@@ -14,7 +14,7 @@ Summoned urgently to the IT director’s office, Bhanu listened to the criticism
 
 “Your systems work fine when the sun is shining,” the director said gravely. “But under real stress, they crumble. We don’t just need scripts that run. We need scripts that survive.”
 
-<img src="./image/Module5/Scripting Mastery - Building Resilient Automation Systems.png">
+<img src="./Module5/Scripting Mastery - Building Resilient Automation Systems.png">
 
 Bhanu realized this was his next frontier. Writing a working script wasn’t enough anymore. He had to create **resilient automation**—scripts that handled errors gracefully, adapted to the unexpected, and stood strong under pressure. It was time to level up, transforming from a mere scripter into a **scripting virtuoso**.
 
@@ -34,7 +34,7 @@ One afternoon, Bhanu received a frantic call: *“The backup script didn’t fin
 
 When he inspected the script, he realized the problem—it had failed silently midway, yet continued running as though nothing had happened. This was unacceptable. If automation was going to replace human oversight, it had to be honest about its failures.
 
-<img src="./image/Module5/Writing Robust Scripts with Error Handling.png">
+<img src="./Module5/Writing Robust Scripts with Error Handling.png">
 
 #### Step 1: Stop at the First Sign of Trouble
 
@@ -120,7 +120,7 @@ Bhanu knew that blind guessing would only waste time. To escape, he needed a **f
 
 ---
 
-<img src="./image/Module5/Debugging Techniques.png">
+<img src="./Module5/Debugging Techniques.png">
 
 ### Step 1: Replaying the Mystery
 
@@ -385,4 +385,5 @@ It was the final step in his transformation. Bhanu was no longer just a process 
 **Remember:** Great scripts don’t just work once—they survive, adapt, and thrive under pressure.
 
 ---
+
 
